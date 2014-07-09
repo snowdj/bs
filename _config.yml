@@ -9,12 +9,12 @@ markdown: rdiscount
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Fellgernon Bit
+title : EVERGREEN
 tagline: blog
 author :
-  name : Collado Torres
-  email : lcollado@jhsph.edu
-  github : lcolladotor
+  name : SNOWDJ
+  email : snowdj@gmail.com
+  github : snowdj
   twitter : fellgernon
   feedburner : FellgernonBit
 
@@ -26,10 +26,10 @@ author :
 # Else if you are pushing to username.github.io, replace with your username.
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
-production_url : http://lcolladotor.github.io
+production_url : http://snowdj.github.io/bs
 
 # Pagination (added this line)
-paginate: 2
+paginate: 5
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
