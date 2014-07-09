@@ -2,11 +2,18 @@ markdown: rdiscount
 pygments: true
 permalink: /:year/:month/:day/:title.html
 name: "rusty shutter"
-markdown: rdiscount
+# markdown: rdiscount
+markdown: kramdown
 
-author: "wayne"
+
+author: snowdj
 atom-baseurl: "http://snowdj.github.io/bs"
+baseurl:   http://snowdj.github.io/bs/
+url : http://snowdj.github.io/bs/
+
 disqus: "gopherwood"
+
+
 
 navigations:
   - title: Archive
