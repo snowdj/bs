@@ -1,0 +1,6 @@
+markdown: rdiscount
+permalink: /:year/:month/:title/
+url: http://snowdj.github.io/bs
+author: snowdj
+pygments: true
+
